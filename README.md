@@ -17,12 +17,13 @@
 
 ## Perfil profesional
 
-Trabajo en la intersección de la analítica de datos, la política pública y el desarrollo de productos digitales con enfoque social.
+Trabajo en la intersección de la analítica de datos, el contexto político y el desarrollo de productos digitales con enfoque social para lograr resultados más inteligentes.
 
 - Convierto datos abiertos en insumos para la toma de decisiones.
 - Diseño soluciones orientadas a formulación, seguimiento y evaluación de políticas públicas.
 - Desarrollo recursos para fortalecer alfabetización y cultura de datos.
 - Priorizo impacto social, transparencia y trazabilidad metodológica en Colombia.
+- Entiendo la importancia de analizar el contexto nacional para tomar decisiones inteligentes y estratégicas.
 
 ---
 
