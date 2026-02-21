@@ -79,7 +79,7 @@ Plataforma para expandir prácticas efectivas en estrategias de finanzas corpora
 
 <p align="left">
   <a href="https://github.com/Grajales-Camilo"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:juangrajales305127@correo.itm.edu.co"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
+  <a href="mailto:camilograjales@dgcapital.co"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
   <a href="https://www.linkedin.com/in/camilo-grajales/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
