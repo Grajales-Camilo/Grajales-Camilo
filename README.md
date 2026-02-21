@@ -1,9 +1,9 @@
-<h1 align="center">⚡ Camilo Grajales</h1>
-<h3 align="center">Data • Policy • Civic Tech</h3>
+<h1 align="center">Camilo Grajales</h1>
+<h3 align="center">Análisis de Datos · Política Pública · Tecnología Cívica</h3>
 
 <p align="center">
   <a href="https://github.com/Grajales-Camilo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Convirtiendo+datos+en+decisiones+p%C3%BAblicas;Periodismo+de+datos+%2B+ciencia+pol%C3%ADtica;Civic+Tech+para+Colombia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Datos+abiertos+aplicados+a+decisiones+p%C3%BAblicas;Anal%C3%ADtica+con+enfoque+social+y+territorial;Evidencia+para+dise%C3%B1o+y+evaluaci%C3%B3n+de+pol%C3%ADticas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 🚀 Sobre mí
+## Perfil profesional
 
-Trabajo en la intersección de **analítica**, **política pública** y **producto digital**.
+Trabajo en la intersección de la analítica de datos, la política pública y el desarrollo de productos digitales con enfoque social.
 
-- 📊 Traduzco datos abiertos en hallazgos accionables.
-- 🏛️ Diseño proyectos orientados a decisiones públicas con evidencia.
-- 🧠 Construyo herramientas para mejorar alfabetización de datos.
-- 🌎 Enfoque: impacto social y transparencia en Colombia.
+- Convierto datos abiertos en insumos para la toma de decisiones.
+- Diseño soluciones orientadas a formulación, seguimiento y evaluación de políticas públicas.
+- Desarrollo recursos para fortalecer alfabetización y cultura de datos.
+- Priorizo impacto social, transparencia y trazabilidad metodológica en Colombia.
 
 ---
 
-## 🧪 Stack principal
+## Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,mysql,postgres,git,github,vscode" />
@@ -34,28 +34,28 @@ Trabajo en la intersección de **analítica**, **política pública** y **produc
 
 ---
 
-## 🛰️ Proyecto insignia
+## Proyecto destacado
 
 ### Cuestión de Datos
 Plataforma para traducir datos públicos en análisis comprensibles sobre política pública social.
 
-- 🔍 Diagnóstico territorial y temático
-- 📈 Visualizaciones claras para toma de decisión
-- 🧾 Base documental + metodología reproducible
+- Diagnóstico territorial y temático con base en evidencia.
+- Visualizaciones orientadas a interpretación y uso práctico.
+- Documentación metodológica para reproducibilidad y control de calidad.
 
 👉 **Repositorio:** [Cuestión de Datos](https://github.com/Grajales-Camilo)
 
 ---
 
-## 📌 Actualmente
+## Líneas de trabajo actuales
 
-- Diseñando el MVP de narrativa de datos
-- Estructurando módulos reutilizables para visualización
-- Preparando integración con APIs de datos públicos
+- Diseño de un MVP de narrativa de datos para asuntos públicos.
+- Estructuración de módulos reutilizables para análisis y visualización.
+- Integración progresiva con APIs de datos abiertos.
 
 ---
 
-## 🤝 Conectemos
+## Contacto
 
 <p align="left">
   <a href="https://github.com/Grajales-Camilo"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -66,5 +66,5 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 ---
 
 <p align="center">
-  <i>"Datos con contexto, decisiones con evidencia."</i>
+  <i>Datos con contexto para decisiones públicas con evidencia.</i>
 </p>
