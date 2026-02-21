@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Grajales-Camilo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Datos+abiertos+aplicados+a+decisiones+p%C3%BAblicas;Anal%C3%ADtica+con+enfoque+social+y+territorial;Evidencia+para+dise%C3%B1o+y+evaluaci%C3%B3n+de+pol%C3%ADticas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Datos+abiertos+aplicados+a+decisiones+inteligentes;Anal%C3%ADtica+con+contexto+social+y+territorial;Evidencia+para+dise%C3%B1o+y+evaluaci%C3%B3n+de+estrategias" alt="Typing SVG" />
   </a>
 </p>
 
@@ -66,5 +66,5 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 ---
 
 <p align="center">
-  <i>Datos con contexto para decisiones públicas con evidencia.</i>
+  <i>Datos con contexto para decisiones púestratégicas con evidencia.</i>
 </p>
