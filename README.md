@@ -35,7 +35,7 @@ Trabajo en la intersección de la analítica de datos, el contexto político y e
 
 ---
 
-## Proyecto destacado
+## Proyectos destacados
 
 ### Cuestión de Datos
 Plataforma para traducir datos públicos en análisis comprensibles sobre política pública social.
@@ -44,7 +44,25 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 - Visualizaciones orientadas a interpretación y uso práctico.
 - Documentación metodológica para reproducibilidad y control de calidad.
 
-👉 **Repositorio:** [Cuestión de Datos](https://github.com/Grajales-Camilo/cuestion-de-datos-MinTIC-2025)
+📈 **Repositorio:** [Cuestión de Datos](https://github.com/Grajales-Camilo/cuestion-de-datos-MinTIC-2025)
+
+### Jaguar House · Software Iniciático
+Apuesta por el uso inteligente de herramientas basadas en LLM para fortalecer la base tecnológica de pymes que quieran (y necesiten) comenzar a impactar en el universo digital.
+
+- Enfoque combinado de design thinking y human-centered design.
+- Integración de análisis de datos y ciencias del comportamiento.
+- Orientación práctica para adopción tecnológica con impacto real.
+
+🐲 **Proyecto:** [Jaguar House](https://grajales-camilo.github.io/Jaguar_House/)
+
+### DG Capital EX (Educational Experience)
+Plataforma para expandir prácticas efectivas en estrategias de finanzas corporativas, uso eficaz de herramientas basadas en IA y estrategias de negocios.
+
+- Laboratorios en programación tipo workshops calificables.
+- Guías en tiempo real con formato de mentorías 1:1.
+- Enfoque aplicado en ejecución y aprendizaje estratégico.
+
+📚 **Proyecto:** [DG Capital EX](https://dg-capital-ex.vercel.app/)
 
 ---
 
@@ -53,6 +71,7 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 - Diseño de un MVP de narrativa de datos para asuntos públicos.
 - Estructuración de módulos reutilizables para análisis y visualización.
 - Integración progresiva con APIs de datos abiertos.
+- Configuración y publicación de aulas virtuales.
 
 ---
 
