@@ -1,5 +1,5 @@
 <h1 align="center">Camilo Grajales</h1>
-<h3 align="center">Análisis de Datos · Política Pública · Tecnología Cívica</h3>
+<h3 align="center">Análisis de Datos · Estrategia · Tecnología Cívica</h3>
 
 <p align="center">
   <a href="https://github.com/Grajales-Camilo">
