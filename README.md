@@ -29,8 +29,8 @@ Trabajo en la intersección de la analítica de datos, el contexto político y e
 
 ## Tecnologías
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,mysql,postgres,git,github,vscode" />
+<p align="center">
+  <img src="assets/tech-stack.svg" alt="Tecnologías" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 - Visualizaciones orientadas a interpretación y uso práctico.
 - Documentación metodológica para reproducibilidad y control de calidad.
 
-👉 **Repositorio:** [Cuestión de Datos](https://github.com/Grajales-Camilo)
+👉 **Repositorio:** [Cuestión de Datos](https://github.com/Grajales-Camilo/cuestion-de-datos-MinTIC-2025)
 
 ---
 
@@ -67,5 +67,5 @@ Plataforma para traducir datos públicos en análisis comprensibles sobre polít
 ---
 
 <p align="center">
-  <i>Datos con contexto para decisiones púestratégicas con evidencia.</i>
+  <i>Datos con contexto para decisiones estratégicas con evidencia.</i>
 </p>
